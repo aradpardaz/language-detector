@@ -305,6 +305,6 @@ echo LanguageDetector\LanguageDetector::detect(
 
 ```
 
-   [Delgarm]: <https://www.delgarm.com/>
+   [Delgarm]: (https://www.delgarm.com/)
 
 ________________________________________________________________________
